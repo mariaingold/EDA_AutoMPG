@@ -1,6 +1,6 @@
-# MACHINE LEARNING TUTORIALS
+# EXPLORATORY DATA ANALYSIS (EDA) ON AUTOMPG DATASET
 
-Machine Learning course tutorials  
+Machine Learning course tutorial  
 
 ## AUTHOR: Maria Ingold
 
@@ -12,4 +12,4 @@ UoEO MSc AI Machine Learning
 * Derived from: Built on the UoEO ML Tutorial on Exploratory Data Analysis.
 * Code: 2_AutoMPG_EDA.ipynb
 * Data: 2_auto-mpg.csv
-* [Google Colab](https://colab.research.google.com/github/mariaingold/MachineLearningTutorials/blob/main/2_AutoMPG_EDA.ipynb)
+* [Google Colab](https://colab.research.google.com/github/mariaingold/EDA_AutoMPG/blob/main/2_AutoMPG_EDA.ipynb)
